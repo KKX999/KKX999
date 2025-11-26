@@ -6,17 +6,4 @@
 
 # 记录一些自己会用到的脚本,指令,工具
 
-<div align="center">
-
-<!-- 贪吃蛇（深色版）-->
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-
-<br/><br/>
-
-<!-- 上霓虹波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28&height=300&section=header&fontSize=0" />
-
-<!-- 下霓虹波浪 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,28&height=300&section=footer&fontSize=0" />
-
-</div>
+<div align="center"><img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" /></div>
